@@ -23,7 +23,7 @@ variables:
 
   # For pipeline reference
   resource_group: amlarc-doris
-  aml_workspace: doris0ws
+  aml_workspace: doris-ws
   application_insights: dorisws8072145540
   key_vault: dorisws6231326050
   container_registry: f23a7c6035b940d78493a69631f1357e
